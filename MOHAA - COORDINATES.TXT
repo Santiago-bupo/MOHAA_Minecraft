@@ -1,0 +1,15 @@
+OSS OFFICE: /tp @s -1080.5 60 -92.5
+
+Omaha Beach: /tp @s 4852.5 80 5027.5
+
+m3l1a > m3l1b
+
+Fort Schmerzen: /tp @s 84 60 -105.5 (TIME 22550)
+
+m6l3a > m6l3e
+
+Southern France: /tp @s 2055.5 62 1956.5 (TIME 6000)
+
+The Bridge: /tp @s 2000.5 60 3000.5
+
+Pixel art> /tp @s 960 5 -143
